@@ -1,0 +1,46 @@
+missing module named resource - imported by posix, E:\工程文件\Python\Spider01\test.py
+missing module named posix - imported by os, E:\工程文件\Python\Spider01\test.py
+missing module named _posixsubprocess - imported by subprocess, E:\工程文件\Python\Spider01\test.py
+missing module named 'org.python' - imported by pickle, E:\工程文件\Python\Spider01\test.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, E:\工程文件\Python\Spider01\test.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\工程文件\Python\Spider01\test.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\工程文件\Python\Spider01\test.py
+missing module named _winreg - imported by platform, E:\工程文件\Python\Spider01\test.py
+missing module named java - imported by platform, E:\工程文件\Python\Spider01\test.py
+missing module named 'java.lang' - imported by platform, E:\工程文件\Python\Spider01\test.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\工程文件\Python\Spider01\test.py
+missing module named termios - imported by tty, getpass, E:\工程文件\Python\Spider01\test.py
+missing module named grp - imported by tarfile, shutil, E:\工程文件\Python\Spider01\test.py
+missing module named org - imported by copy, E:\工程文件\Python\Spider01\test.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, E:\工程文件\Python\Spider01\test.py
+missing module named ce - imported by os, E:\工程文件\Python\Spider01\test.py
+missing module named _dummy_threading - imported by dummy_threading, E:\工程文件\Python\Spider01\test.py
+missing module named _scproxy - imported by urllib.request
+missing module named urllib.unquote_plus - imported by urllib, requests.compat
+missing module named urllib.urlencode - imported by urllib, requests.compat
+missing module named urllib.quote - imported by urllib, requests.compat
+missing module named urllib.quote_plus - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat
+missing module named urllib.getproxies - imported by urllib, requests.compat
+missing module named urllib.unquote - imported by urllib, requests.compat
+missing module named 'requests.packages.urllib3.packages.six.moves' - imported by requests.packages.urllib3.exceptions, requests.packages.urllib3.connectionpool, requests.packages.urllib3.connection, requests.packages.urllib3.util.response, requests.packages.urllib3.request, requests.packages.urllib3.response, requests.packages.urllib3.poolmanager
+missing module named Queue - imported by requests.packages.urllib3.connectionpool, urllib3.connectionpool
+missing module named backports - imported by requests.packages.urllib3.packages.ssl_match_hostname
+missing module named _abcoll - imported by requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict
+missing module named dummy_thread - imported by requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict
+missing module named thread - imported by requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict
+missing module named StringIO - imported by requests.packages.urllib3.packages.six, urllib3.packages.six, six, requests.compat
+missing module named Cookie - imported by requests.compat
+missing module named cookielib - imported by requests.compat
+missing module named urllib2 - imported by requests.compat
+missing module named urlparse - imported by requests.compat
+missing module named simplejson - imported by requests.compat
+missing module named idna - imported by requests.packages, requests.packages.urllib3.contrib.pyopenssl
+missing module named chardet - imported by requests.packages
+missing module named 'urllib3.packages.six.moves' - imported by urllib3.exceptions, urllib3.connectionpool, urllib3.connection, urllib3.util.response, urllib3.request, urllib3.response, urllib3.poolmanager
+missing module named 'backports.ssl_match_hostname' - imported by urllib3.packages.ssl_match_hostname
+missing module named socks - imported by requests.packages.urllib3.contrib.socks
+missing module named certifi - imported by requests.certs
+missing module named 'cryptography.hazmat' - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named cryptography - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named OpenSSL - imported by requests.packages.urllib3.contrib.pyopenssl
